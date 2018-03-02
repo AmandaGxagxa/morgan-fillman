@@ -19,6 +19,8 @@
 # Containers
 
   * How to position things
+    * float
+    * display : inline-block;
 
 ## Positioning components
 
