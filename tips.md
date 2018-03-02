@@ -20,6 +20,8 @@ https://css-tricks.com/snippets/css/clear-fix/
 
 Layout using vertical block;
 
+http://learnlayout.com/inline-block.html
+
 ```css
   display: inline-block;
   vertical-align: top;

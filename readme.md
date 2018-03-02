@@ -3,6 +3,9 @@
 ## elements
   * block level
   * inline
+  * sizing elements
+    * width
+    * height
 
 ## Box model
 
